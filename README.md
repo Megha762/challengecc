@@ -1,9 +1,12 @@
 # challengecc
 
+![Giphy](https://media.giphy.com/media/fUMWgbRAXyTccgG7Vb/giphy.gif)
+
 **Chat-Application**: It is a realtime chat application feature in react app. This app uses Chatkit api to fetch messages from server.
 
 ## Overview of this app
-The user register from their email id and get access to the respective rooms where can start the chats to any one of the room.
+The user can register from their email id and get access to the respective rooms where can start the chats to any one of the room.
+And create more rooms is also the feature in this application.
 User can also see the status of the members whether online or offline.
 
 
